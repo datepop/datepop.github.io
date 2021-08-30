@@ -1,0 +1,38 @@
+baseURL = 'https://datepop.github.io/'
+languageCode = 'ko'
+title = '데이트팝 기술블로그'
+theme = "ananke"
+
+
+DefaultContentLanguage = "ko"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "G-K8M75M14YG"
+disqusShortname = "disqus_2rX9zpVcWc"
+enableRobotsTXT = true
+
+[languages]
+  [languages.ko]
+    title = "데이트팝 기술블로그"
+    weight = 1
+    contentDir = "content/ko"
+  [languages.en]
+    title = "Datepop Tech Blog"
+    weight = 2
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+[params]
+  favicon = "/img/favicon.ico"
+  site_logo = "/img/logo-datepop.svg"
+  description = "Welcome to Datepop Tech Blog"
+  recent_posts_number = 2
+  background_color_class = "bg-grey"
+  instagram = ""
+  facebook = ""
+  github = "https://github.com/datepop"
