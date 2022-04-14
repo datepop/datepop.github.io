@@ -25,7 +25,7 @@ jobs:
 
     # build website
     - name: Build
-      run: hugo --minify
+      run: HUGO_ENV=production hugo --minify
 
     # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
@@ -34,3 +34,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: master # if your main branch is `master` use that here.
         publish_dir: ./public
+        cname: blog.datepop.co.kr
