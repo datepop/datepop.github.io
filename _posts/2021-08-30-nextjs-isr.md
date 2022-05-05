@@ -3,7 +3,7 @@ layout: post
 title:  "Nextjs ISR 시작하기"
 author: Changyun
 categories: [ Frontend, Nextjs ]
-image: assets/images/17.jpg
+image: assets/images/nextjs.png
 featured: true
 ---
 

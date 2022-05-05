@@ -3,7 +3,7 @@ layout: post
 title:  "Django에서 파일크기 체크 Decorator"
 author: Changyun
 categories: [ Django, Python, Decorator ]
-image: assets/images/17.jpg
+image: assets/images/django.png
 featured: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "annotation의 주의점 (쿼리문과 비교)"
 author: Changyun
 categories: [ Django, ORM, DRF ]
-image: assets/images/17.jpg
+image: assets/images/django.png
 ---
 
 annotation의 주의점 (쿼리문과 비교) 실행하는 쿼리문과의 비교
