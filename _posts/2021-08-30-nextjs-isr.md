@@ -1,17 +1,13 @@
 ---
-title: "Nextjs ISR 시작하기"
-date: 2021-08-30T11:00:38+09:00
-description: "Nextjs ISR 시작하기"
-type: "post"
-image: "/posts/nextjs-isr/Untitled.png"
-categories: 
-  - "Frontend"
-tags:
-  - "Frontend"
-  - "Nextjs"
-draft: false
-toc: true
+layout: post
+title:  "Nextjs ISR 시작하기"
+author: Changyun
+categories: [ Frontend, Nextjs ]
+image: assets/images/17.jpg
+featured: true
 ---
+
+Next.js는 Node.js 위에서 React 기반 웹을 server-side 렌더링과 정적 웹사이트 생성해주는 오픈소스이다.
 
 ## 서버사이드 렌더링 nextjs 도입하기
 

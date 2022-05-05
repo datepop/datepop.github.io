@@ -1,35 +1,65 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About DATEPOP
 permalink: /about
 comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+### Android
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+##### 사용자 앱
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+https://play.google.com/store/apps/details?id=com.tenfingers.seouldatepop
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+##### 사장님 앱
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+https://play.google.com/store/apps/details?id=com.tenfingers.popshop
 
-</div>
+### iOS
 
-<div class="col-md-4">
+##### 사용자 앱
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%8C%9D/id815000358
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+##### 사장님 앱
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+https://apps.apple.com/kr/app/pop-shop/id1114721992
 
-</div>
-</div>
-</div>
+
+### Web
+
+##### 웹 기획전
+
+https://datepop.co.kr
+
+##### 회사 홈페이지
+
+https://10fingers.datepop.co.kr
+
+##### 사장님 홈페이지
+
+https://ceo.datepop.co.kr
+
+
+##### 주요 연혁
+- 2020.02. 데이트팝 누적 다운로드 400만, 누적 제휴점 2000개 돌파
+- 2018.07. 투자 유치 23억 (대성창투, 쿨리지코너, 에트리홀딩스)
+- 2016.07. 전국 5대 광역시 통합 ‘데이트팝’ 출시
+- 2016.04. 포스코기술투자(주)로부터 10억 투자 유치
+- 2014.08. 투자연계형멘토링 R&D사업 선정 – 연구비 2억 유치
+- 2014.07. 쿨리지코너 인베스트먼트(주)로부터 4억 투자 유치
+- 2014.04. (주)텐핑거스 법인 설립. (대표이사 : 신동해)
+- 2013.09. 서울데이트팝 앱 런칭
+- 2013.07. 창업맞춤형사업 투자연계형 선정
+
+##### 수상 이력
+- 2015.03. 대한민국 모바일 어워드 2015 ‘3월 으뜸앱’
+- 2014.05. 제4회 창조관광사업 공모전 우수상
+- 2013.11. 제1회 공공데이터 활용 창업경진대회 우수상
+
+##### 문의처
+- 전화: 070-4410-8836
+- 이메일: support@datepop.co.kr
+- 카카오톡: @데이트팝
+- 주소: 서울 서초구 나루터로 62, 일신빌딩 7층

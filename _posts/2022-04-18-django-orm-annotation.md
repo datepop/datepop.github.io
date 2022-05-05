@@ -1,18 +1,12 @@
 ---
-title: "annotation의 주의점 (쿼리문과 비교)"
-date: 2022-04-18T11:00:38+09:00
-description: "annotation의 주의점 (쿼리문과 비교)"
-type: "post"
-image: "/posts/default/python-logo.png"
-categories: 
-  - "Django"
-tags:
-  - "Django"
-  - "ORM"
-  - "DRF"
-draft: false
-toc: true
+layout: post
+title:  "annotation의 주의점 (쿼리문과 비교)"
+author: Changyun
+categories: [ Django, ORM, DRF ]
+image: assets/images/17.jpg
 ---
+
+annotation의 주의점 (쿼리문과 비교) 실행하는 쿼리문과의 비교
 
 # annotation의 주의점 (쿼리문과 비교)
 

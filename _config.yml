@@ -1,7 +1,7 @@
 # Site
-name: "개인 블로그"
-title: "개인 블로그"
-description: "개인 블로그"
+name: "Datepop tech blog"
+title: "Datepop tech blog"
+# description: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -17,10 +17,9 @@ authors:
     name: 이창윤
     display_name: 이창윤
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: datepop21@gmail.com
+    web: https://datepop.co.kr
+    description: "Team leader"
   john:
     name: John
     display_name: John    
@@ -28,7 +27,6 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins

@@ -1,17 +1,14 @@
 ---
-title: "채용 사전과제 도입기 #1"
-date: 2021-12-29T16:11:14+09:00
-description: "채용 사전과제 도입기 #1"
-type: "post"
-image: "/posts/recruit-assignment-1/thumbnail.jpeg"
-categories: 
-  - "개발팀"
-tags:
-  - "채용"
-  - "과제"
-draft: false
-toc: true
+layout: post
+title:  "채용 사전과제 도입기 #1"
+author: Changyun
+categories: [ 채용, 과제 ]
+image: assets/images/17.jpg
+featured: true
+# rating: 5
 ---
+
+서류와 면접을 봐도 어느정도 판단은 가능하지만 정확하게 어느정도 개발을 하고 실력이 있는지는 알기 어렵다. 신입의 **개발 역량**과 경력직의 개발 이해도, 속도, 역량을 판단하기 위해 도입하기로 했다.
 
 ### 채용 위한 프로그래밍 과제 도입 #1
 

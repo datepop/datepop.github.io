@@ -1,18 +1,13 @@
 ---
-title: "Django에서 파일크기 체크 Decorator"
-date: 2022-01-18T19:11:14+09:00
-description: "Django에서 파일크기 체크 Decorator"
-type: "post"
-image: "/posts/default/python-logo.png"
-categories: 
-  - "Django"
-tags:
-  - "Django"
-  - "Python"
-  - "Decorator"
-draft: false
-toc: true
+layout: post
+title:  "Django에서 파일크기 체크 Decorator"
+author: Changyun
+categories: [ Django, Python, Decorator ]
+image: assets/images/17.jpg
+featured: false
 ---
+
+프론트(웹 브라우저, 안드로이드, iOS)에서 리사이즈를 하더라도 업로드 하는 과정에 용량이 큰 파일들이 존재함. 프론트에서 전부다 해결을 해서 보낸다고 하더라도 서버에서 최종적으로 확인할 필요가 있음.
 
 ##### 파일 업로드 과정에서의 문제
 
