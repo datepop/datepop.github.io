@@ -7,7 +7,7 @@ comments: false
 
 <style>
 .team h2 {
-    font-family: 'Black Han Sans';
+    font-family: 'Jua';
 }
 .team h4 {
     font-family: 'Gugi';
