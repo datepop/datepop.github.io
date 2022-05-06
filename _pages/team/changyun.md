@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 팀장 이창윤
-permalink: /team
+permalink: /team/changyun
 comments: false
 ---
 
