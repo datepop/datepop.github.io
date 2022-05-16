@@ -71,16 +71,32 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
                 </li>
 
+                {% if page.url == "/about" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
+                {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 
+                {% if page.url == "/work" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/team">Team</a>
-                    </li>
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/work">Work</a>
+                </li>
+
+                {% if page.url == "/team" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/team">Team</a>
+                </li>
 
                 {% include search-lunr.html %}
 

@@ -82,20 +82,9 @@ comments: false
 
 <div class="member-box">
     <div class="flex">
-        <h4 style="flex-grow: 1;">박선오</h4>
-        <a href="/team/">자세히</a>
+        <h4 style="flex-grow: 1;">채용중</h4>
     </div>
     <div class="flex">
-        <div>
-            <img src="/assets/images/team/seono.png" />
-        </div>
-        <div>
-            <ul>
-                <li>21.12 ~ 재직중 : 텐핑거스 프론트엔드 개발자</li>
-                <li>20.06 ~ 21.10 : 제이카</li>
-            </ul>
-            <div class="quote">모든 상황에 유연하게 대처하는 전문가가 되는 것이 꿈입니다.</div>
-        </div>
     </div>
 </div>
 
