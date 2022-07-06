@@ -3,11 +3,9 @@ layout: post
 title:  "주니어 개발자의 프로젝트 참가기 (1) - Kick-off 회의"
 author: Coldzero
 categories: [ Docker, Docker Compose, FastAPI ]
-image: assets/images/fastapi.png
+image: assets/images/posts/junior-developer-kick-off-1/untitled_1.png
 featured: true
 ---
-
-# 주니어 개발자의 프로젝트 참가기 (1) - Kick-off 회의
 
 텐핑거스 개발팀 백엔드 개발자 이찬영입니다.
 
@@ -27,13 +25,16 @@ featured: true
 
 현재 데이트팝 앱을 실행하면 처음 나오는 지도부터 유저에게 친화적인 방향으로 개발을 진행하는 프로젝트입니다.
 
-![<현재 데이트팝 초기 화면>]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/Untitled.png)
+<div style="max-width: 500px; width: 100%;">
+    <img src="/assets/images/posts/junior-developer-kick-off-1/untitled.png" /><br />
+    현재 데이트팝 초기 화면
+</div>
 
-<현재 데이트팝 초기 화면>
+<div>
+    <img src="/assets/images/posts/junior-developer-kick-off-1/untitled_1.png" /><br />
+    어떻게 변화할까요?
+</div>
 
-![<어떻게 변화할까요?>]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/Untitled%201.png)
-
-<어떻게 변화할까요?>
 
 ## Q2. 프로젝트를 어떻게 진행하나요?
 
@@ -65,7 +66,7 @@ Kick-off 회의 → Preview 회의 → 서비스 출시 및 개발 일정 수립
 
 1차 kick-off 때 나눈 이야기를 바탕으로 각자 자료 조사를 합니다.
 
-![Untitled]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/Untitled%202.png)
+![Untitled]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/untitled_2.png)
 
 그래서 2차 때는 좀 더 확장된 방향으로 회의를 진행합니다.
 
@@ -85,7 +86,7 @@ Kick-off 1차와 2차를 거치면서 서버에서 가장 저용량이면서 고
 
 그리고 제 개인적으로 좀 더 애자일 하게 일하기 위한 방식에 관한 공부를 진행하였습니다.
 
-![Untitled]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/Untitled%203.png)
+![Untitled]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/untitled_3.png)
 
 갑자기 뜬금없이 애자일에 관한 책이냐고 생각할 수도 있습니다. 🫠
 
@@ -97,7 +98,7 @@ Kick-off 1차와 2차를 거치면서 서버에서 가장 저용량이면서 고
 
 2차 킥오프 회의가 끝나고 저의 조급한 마음을 눈치챈 팀장님의 메시지를 보면서 냉정과 열정을 적절하게 유지하는 것이 중요하다는 것도 생각했습니다.
 
-![<제 조급한 마음을 눈치채고 천천히 일정 조정해주시는 팀장님의 메시지 🫣>]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/Untitled%204.png)
+![<제 조급한 마음을 눈치채고 천천히 일정 조정해주시는 팀장님의 메시지 🫣>]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/untitled_4.png)
 
 <제 조급한 마음을 눈치채고 천천히 일정 조정해주시는 팀장님의 메시지 🫣>
 
@@ -117,7 +118,7 @@ Kick-off 1차와 2차를 거치면서 서버에서 가장 저용량이면서 고
 
 지속해서 도움을 주는 팀장님, 동료분들과 함께하는 개발팀이어서 더 좋은 것 같습니다😳
 
-![<하나하나 알려주는 팀장님의 모습과 비슷합니다🥹>]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/Untitled%205.png)
+![untitled_5.png]({{site.url}}/assets/images/posts/junior-developer-kick-off-1/untitled_5.png)
 
 <하나하나 알려주는 팀장님의 모습과 비슷합니다🥹>
 
