@@ -4,7 +4,7 @@ title:  "가상환경 설정없이 Docker Compose로 FastAPI 개발환경 만들
 author: Changyun
 categories: [ Docker, Docker Compose, FastAPI ]
 image: assets/images/fastapi.png
-featured: true
+featured: false
 ---
 
 ## 가상환경 설정없이 Docker Compose로 FastAPI 개발환경 만들기

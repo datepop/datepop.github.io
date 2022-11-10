@@ -4,7 +4,7 @@ title:  "채용 사전과제 도입기 #1"
 author: Changyun
 categories: [ 채용, 과제 ]
 image: assets/images/coding-tests-for-interviews.jpg
-featured: true
+featured: false
 # rating: 5
 ---
 
