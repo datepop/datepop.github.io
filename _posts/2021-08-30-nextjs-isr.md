@@ -76,13 +76,13 @@ ISR은 빌드를 많이하면 좋지만 시간이 많이 걸리는 이슈를 해
 
 아래 그림처럼 **A**처럼 꼭 필요한 페이지를 먼저 빌드하고 배포하고 **B**처럼 캐시도 많이 할 수 있다.
 
-![Untitled](/posts/nextjs-isr/Untitled.png)
+![Untitled](/assets/images/posts/nextjs-isr/untitled.png)
 
 캐싱하는 주기(revalidate)도 설정이 가능하다. 0초에 v1의 페이지가 만들어지면 60초라는 시간 이전에는 v1의 페이지를 사용자에게 그대로 보여준다. 주기 60초 이후에 새로운 페이지 v2를 만들고 업데이트를 한다.
 
 사용자의 요청 기준으로 throttle 방식으로 작동하는 것 같다. 아래 그림 참고.
 
-![Untitled](/posts/nextjs-isr/Untitled%201.png)
+![Untitled](/assets/images/posts/nextjs-isr/untitled_1.png)
 
 #### ISR을 찾게된 배경
 
@@ -93,13 +93,13 @@ ISR은 빌드를 많이하면 좋지만 시간이 많이 걸리는 이슈를 해
 
 적용 전에는 API 호출에 10~20초가 걸려서 페이지 뜨는 속도가 매우 느렸다. 적용 후에는 페이지가 즉각적으로 뜨고 이후 이미지 로드 시간만 더 소요된다.
 
-![Untitled](/posts/nextjs-isr/Untitled%202.png)
+![Untitled](/assets/images/posts/nextjs-isr/untitled_2.png)
 
-[메인 페이지](https://popdeal.datepop.co.kr) 첫 컨텐츠가 이미지 슬라이드고 클릭하면 기획전으로 가는데 여기 페이지도 정보들이 많아 오래걸리는데 ISR 설정을 하고 매우 빨라졌다.
+[메인 페이지](https://datepop.co.kr) 첫 컨텐츠가 이미지 슬라이드고 클릭하면 기획전으로 가는데 여기 페이지도 정보들이 많아 오래걸리는데 ISR 설정을 하고 매우 빨라졌다.
 
-![Untitled](/posts/nextjs-isr/Untitled%203.png)
+![Untitled](/assets/images/posts/nextjs-isr/untitled_3.png)
 
-[홈 화면](https://popdeal.datepop.co.kr)에서 사용자가 들어갈수 있는 카테고리 항목이 19개인데 각각 페이지들을 미리 빌드하면 새로운 사용자가 '카페'를 누르면 빌드한 페이지를 바로 보여줄 수가 있다.
+[홈 화면](https://datepop.co.kr)에서 사용자가 들어갈수 있는 카테고리 항목이 19개인데 각각 페이지들을 미리 빌드하면 새로운 사용자가 '카페'를 누르면 빌드한 페이지를 바로 보여줄 수가 있다.
 
 #### 주의할 점
 
