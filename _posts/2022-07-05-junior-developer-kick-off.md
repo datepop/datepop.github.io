@@ -26,7 +26,7 @@ featured: true
 현재 데이트팝 앱을 실행하면 처음 나오는 지도부터 유저에게 친화적인 방향으로 개발을 진행하는 프로젝트입니다.
 
 <div style="max-width: 500px; width: 100%;">
-    <img src="/assets/images/posts/junior-developer-kick-off-1/untitled.png" /><br />
+    <img src="/assets/images/posts/junior-developer-kick-off-1/datepop_map.png" /><br />
     현재 데이트팝 초기 화면
 </div>
 
