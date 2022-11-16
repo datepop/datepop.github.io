@@ -4,9 +4,9 @@ title: "Datepop tech blog"
 # description: ""
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
-baseurl: ''
+baseurl: 'https://blog.datepop.co.kr'
 # google_analytics: ''
-# disqus: ''
+disqus: 'disqus_2rX9zpVcWc'
 # mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
