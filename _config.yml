@@ -28,6 +28,18 @@ authors:
     email: cyl0504@gmail.com
     web: https://velog.io/@coldzero
     description: "백엔드 개발자"
+  ZeroDeg:
+    name: 장영도
+    display_name: 장영도
+    email: zerodeg.date@gmail.com
+    web: https://github.com/ok0035
+    description: "안드로이드 개발자"
+  Suho:
+    name: 이수호
+    display_name: 이수호
+    email: suho.datepop@gmail.com
+    web: https://github.com/suhoeel
+    description: "안드로이드 개발자"
 
 # Plugins
 plugins:
