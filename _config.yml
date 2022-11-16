@@ -6,7 +6,7 @@ logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
 baseurl: 'https://blog.datepop.co.kr'
 # google_analytics: ''
-disqus: 'disqus_2rX9zpVcWc'
+disqus: 'datepop-tech-blog'
 # mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
