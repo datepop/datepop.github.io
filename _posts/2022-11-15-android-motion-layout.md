@@ -3,7 +3,7 @@ layout: post
 title:  "데이트팝에 Motion Layout 적용하기"
 author: ZeroDeg
 categories: [ Android, Datepop, MotionLayout ]
-image: assets/images/posts/junior-developer-kick-off-4/untitled-0.png
+image: assets/images/posts/android-motion-layout/Untitled.png
 featured: true
 ---
 

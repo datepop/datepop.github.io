@@ -4,7 +4,7 @@ title:  "주니어 개발자의 프로젝트 참가기 (1) - Kick-off 회의"
 author: Coldzero
 categories: [ 프로젝트, 킥오프, 개발자 ]
 image: assets/images/posts/junior-developer-kick-off-1/untitled_1.png
-featured: true
+featured: false
 ---
 
 텐핑거스 개발팀 백엔드 개발자 이찬영입니다.
