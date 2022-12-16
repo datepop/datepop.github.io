@@ -73,8 +73,3 @@ comments: false
   💪🏻 Small talk를 바탕으로 한 자유로운 소통 방식을 기반으로 다양하게 협업합니다
 
 텐핑거스는 같이하는 사람들의 발전을 최우선으로 모두가 즐겁게 일하려고 노력합니다. 개인의 성장이 회사에 성장과 함께하는 개발팀을 하고 싶다면 지금 지원해주세요! 같이 갑시다!!
-
-<img src="/assets/images/work/Untitled 2.png" width="500px" />
-
-
-[지원하러 가기](https://www.wanted.co.kr/company/1650)
