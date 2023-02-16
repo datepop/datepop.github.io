@@ -34,28 +34,6 @@ comments: false
 
 <div class="team">
 
-<h2>팀장</h2>
-
-<div class="member-box">
-    <div class="flex">
-        <h4 style="flex-grow: 1;">이창윤</h4>
-        <a href="/team/changyun">자세히</a>
-    </div>
-    <div class="flex">
-        <div>
-            <img src="https://avatars.githubusercontent.com/u/57675145?s=140&v=4" />
-        </div>
-        <div>
-            <ul>
-                <li>21.04 ~ 22.12 : 텐핑거스 개발 팀장</li>
-                <li>20.01 ~ 21.04 : 티맥스 와플 개발 팀장</li>
-            </ul>
-            <div class="quote">개인의 성장을 돕는 팀장이 되겠습니다 🤛<br />
-            점점 성장하는 회사로 만들겠습니다 🔥</div>
-        </div>
-    </div>
-</div>
-
 <h2>안드로이드</h2>
 
 <div class="member-box">
@@ -128,7 +106,7 @@ comments: false
     </div>
 </div>
 
-<h2>프론트엔드</h2>
+<h2>백엔드</h2>
 
 <div class="member-box">
     <div class="flex">
@@ -141,7 +119,7 @@ comments: false
         </div>
         <div>
             <ul>
-                <li>22.07 ~ 재직중 : 텐핑거스 프론트엔드 개발자</li>
+                <li>22.07 ~ 재직중 : 텐핑거스 백엔드 개발자</li>
                 <li>21.06 ~ 22.06 : (주)앤비젼</li>
                 <li>20.01 ~ 21.06 : 티맥스데이터 연구원</li>
             </ul>
@@ -151,8 +129,6 @@ comments: false
         </div>
     </div>
 </div>
-
-<h2>백엔드</h2>
 
 <div class="member-box">
     <div class="flex">
