@@ -50,7 +50,8 @@ comments: false
                 <li>KAIST 기계공학과</li>
             </ul>
             <div class="quote">
-                언제나 최신 동향을 따라가려 노력하는 풀스택 개발자 권재원입니다. 파이썬을 주로 사용하며, 개발 관련 기술 학습의욕이 높고 습득한 기술은 나눠야 한다는 신념을 가지고 있습니다. 풀스택으로 작업이 가능하지만, 현재 주로 관심을 갖는 분야는 자바스크립트이며, UI/UX 디자인 및 개발에도 관심이 있습니다.
+                언제나 최신 동향을 따라가려 노력하는 풀스택 개발자 권재원입니다.<br />
+                파이썬을 주로 사용하며, 개발 관련 기술 학습의욕이 높고 습득한 기술은 나눠야 한다는 신념을 가지고 있습니다.<br />풀스택으로 작업이 가능하지만, 현재 주로 관심을 갖는 분야는 자바스크립트이며, UI/UX 디자인 및 개발에도 관심이 있습니다.
             </div>
         </div>
     </div>
@@ -126,7 +127,7 @@ comments: false
     </div>
     <div class="flex">
         <div>
-            <img src="https://avatars.githubusercontent.com/u/89123869?s=140&v=4" />
+            <img src="https://avatars.githubusercontent.com/u/19832624?s=140&v=4" />
         </div>
         <div>
             <ul>

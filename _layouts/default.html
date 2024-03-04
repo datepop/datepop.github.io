@@ -51,7 +51,7 @@ ga('send', 'pageview');
     <div class="container pr-0">
 
     <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <a class="navbar-brand" href="/">
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
     <!-- End Logo -->
@@ -71,7 +71,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
+                <a class="nav-link" href="/">Blog</a>
                 </li>
 
                 {% if page.url == "/about" %}
@@ -79,7 +79,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                <a class="nav-link" href="/about">About</a>
                 </li>
 
                 {% if page.url == "/work" %}
@@ -87,7 +87,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/work">Work</a>
+                <a class="nav-link" href="/work">Work</a>
                 </li>
 
                 {% if page.url == "/team" %}
@@ -95,7 +95,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/team">Team</a>
+                <a class="nav-link" href="/team">Team</a>
                 </li>
 
                 {% include search-lunr.html %}

@@ -16,27 +16,29 @@ authors:
   Changyun:
     name: 이창윤
     display_name: 이창윤
-    gravatar: ff015d4416ff0a08334e5f408bdaa961
     email: datepop21@gmail.com
+    githubuid: 57675145
     web: https://www.linkedin.com/in/zerostrength
     description: "백엔드 개발자"
     linkedin: https://www.linkedin.com/in/zerostrength
   Coldzero:
     name: 이찬영
     display_name: 이찬영
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    githubuid: 89123869
     email: cyl0504@gmail.com
     web: https://velog.io/@coldzero
     description: "백엔드 개발자"
   ZeroDeg:
     name: 장영도
     display_name: 장영도
+    githubuid: 19370688
     email: zerodeg.date@gmail.com
     web: https://github.com/ok0035
     description: "안드로이드 개발자"
   Suho:
     name: 이수호
     display_name: 이수호
+    githubuid: 28211989
     email: suho.datepop@gmail.com
     web: https://github.com/suhoeel
     description: "안드로이드 개발자"
@@ -79,4 +81,14 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: 
+  - changelog.md
+  - LICENSE.txt
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
