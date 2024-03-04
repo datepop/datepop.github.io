@@ -1,6 +1,6 @@
 # Site
-name: "Datepop tech blog"
-title: "Datepop tech blog"
+name: "데이트팝 기술블로그"
+title: "데이트팝 기술블로그"
 # description: ""
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
@@ -19,7 +19,7 @@ authors:
     gravatar: ff015d4416ff0a08334e5f408bdaa961
     email: datepop21@gmail.com
     web: https://www.linkedin.com/in/zerostrength
-    description: "개발 팀장"
+    description: "백엔드 개발자"
     linkedin: https://www.linkedin.com/in/zerostrength
   Coldzero:
     name: 이찬영

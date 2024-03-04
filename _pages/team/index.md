@@ -7,10 +7,10 @@ comments: false
 
 <style>
 .team h2 {
-    font-family: 'Jua';
+    font-family: 'Pretendard';
 }
 .team h4 {
-    font-family: 'Gugi';
+    font-family: 'Pretendard';
     padding-bottom: 12px;
 }
 .member-box {
@@ -34,12 +34,52 @@ comments: false
 
 <div class="team">
 
-<h2>안드로이드</h2>
+<div class="member-box">
+    <div class="flex">
+        <h4 style="flex-grow: 1;">권재원</h4>
+    </div>
+    <div class="flex">
+        <div>
+            <img src="https://avatars.githubusercontent.com/u/5336742?s=140&v=4" />
+        </div>
+        <div>
+            <ul>
+                <li>23.08 ~ 재직중 : (주)텐핑거스 CTO</li>
+                <li>(주)바닐라브릿지 CTO</li>
+                <li>(주)파운트 소프트웨어 엔지니어</li>
+                <li>KAIST 기계공학과</li>
+            </ul>
+            <div class="quote">
+                언제나 최신 동향을 따라가려 노력하는 풀스택 개발자 권재원입니다. 파이썬을 주로 사용하며, 개발 관련 기술 학습의욕이 높고 습득한 기술은 나눠야 한다는 신념을 가지고 있습니다. 풀스택으로 작업이 가능하지만, 현재 주로 관심을 갖는 분야는 자바스크립트이며, UI/UX 디자인 및 개발에도 관심이 있습니다.
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="member-box">
+    <div class="flex">
+        <h4 style="flex-grow: 1;">김용범</h4>
+    </div>
+    <div class="flex">
+        <div>
+            <img src="https://avatars.githubusercontent.com/u/108647896?s=140&v=4" />
+        </div>
+        <div>
+            <ul>
+                <li>22.07 ~ 재직중 : (주)텐핑거스 개발팀장</li>
+                <li>21.06 ~ 22.06 : (주)앤비젼</li>
+                <li>20.01 ~ 21.06 : 티맥스데이터 연구원</li>
+            </ul>
+            <div class="quote">
+                개발팀원들과 더불어 회사 성장을 위해 지치지 않는 개발자가 되겠습니다~😃
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="member-box">
     <div class="flex">
         <h4 style="flex-grow: 1;">장영도</h4>
-        <a href="/team/zerodeg">자세히</a>
     </div>
     <div class="flex">
         <div>
@@ -47,7 +87,7 @@ comments: false
         </div>
         <div>
             <ul>
-                <li>22.05 ~ 재직중 : 텐핑거스 Android 개발자</li>
+                <li>22.05 ~ 재직중 : (주)텐핑거스 Android 개발자</li>
                 <li>19.01 ~ 21.06 : (주)다빈시스템스</li>
                 <li>17.02 ~ 18.02 : ICT 학점연계 인턴쉽</li>
                 <li>17.07 ~ 18.02 : 프리랜서</li>
@@ -65,33 +105,7 @@ comments: false
 
 <div class="member-box">
     <div class="flex">
-        <h4 style="flex-grow: 1;">이수호</h4>
-        <a href="/team/suho">자세히</a>
-    </div>
-    <div class="flex">
-        <div>
-            <img src="https://avatars.githubusercontent.com/u/28211989?s=140&v=4" />
-        </div>
-        <div>
-            <ul>
-                <li>22.08 ~ 재직중 : 텐핑거스 Android 개발자</li>
-                <li>19.07 ~ 22.08 : (주) 올리브유니온 / 안드로이드 / 주임 </li>
-                <li>18.11 ~ 19.06 : (주) 트랜스박스 / 안드로이드 / 사원</li>
-            </ul>
-            <div class="quote">
-꿈꾸는 개발자입니다 :)
-실패를 두려워 하지 않습니다
-            </div>
-        </div>
-    </div>
-</div>
-
-<h2>iOS</h2>
-
-<div class="member-box">
-    <div class="flex">
         <h4 style="flex-grow: 1;">구민회</h4>
-        <a href="/team/">자세히</a>
     </div>
     <div class="flex">
         <div>
@@ -99,41 +113,16 @@ comments: false
         </div>
         <div>
             <ul>
-                <li>19.06 ~ 재직중 : 텐핑거스 iOS 개발자</li>
+                <li>19.06 ~ 재직중 : (주)텐핑거스 iOS 개발자</li>
             </ul>
             <div class="quote"></div>
         </div>
     </div>
 </div>
 
-<h2>백엔드</h2>
-
 <div class="member-box">
     <div class="flex">
-        <h4 style="flex-grow: 1;">김용범</h4>
-        <a href="/team/dragontiger">자세히</a>
-    </div>
-    <div class="flex">
-        <div>
-            <img src="https://avatars.githubusercontent.com/u/108647896?s=140&v=4" />
-        </div>
-        <div>
-            <ul>
-                <li>22.07 ~ 재직중 : 텐핑거스 백엔드 개발자</li>
-                <li>21.06 ~ 22.06 : (주)앤비젼</li>
-                <li>20.01 ~ 21.06 : 티맥스데이터 연구원</li>
-            </ul>
-            <div class="quote">
-                개발팀원들과 더불어 회사 성장을 위해 지치지 않는 개발자가 되겠습니다~😃
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="member-box">
-    <div class="flex">
-        <h4 style="flex-grow: 1;">이찬영</h4>
-        <a href="/team/coldzero">자세히</a>
+        <h4 style="flex-grow: 1;">김관희</h4>
     </div>
     <div class="flex">
         <div>
@@ -141,10 +130,8 @@ comments: false
         </div>
         <div>
             <ul>
-                <li>22.04 ~ 재직중 : 텐핑거스 서버/백엔드 개발자</li>
-                <li>20.01 ~ 21.01 : 선진 한마을 기획생산성팀 사원</li>
+                <li>24.01 ~ 재직중 : (주)텐핑거스 백엔드 개발자</li>
             </ul>
-            <div class="quote">즐거운 개발을 통해 주변에 긍정 에너지를 전파 시키겠습니다~!</div>
         </div>
     </div>
 </div>
