@@ -7,6 +7,7 @@ License: https://www.wowthemes.net/freebies-license/
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
+
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -19,23 +20,6 @@ a {
 a:hover {
     color: #038252;
     text-decoration: none;
-}
-
-pre {
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    border: #E3EDF3 1px solid;
-    width: 100%;
-    padding: 7px;
-    font-family: monospace, sans-serif;
-    font-size: .9rem;
-    white-space: pre;
-    overflow: auto;
-    background: #fff;
-    border-radius: 0px;
-    line-height: 1.6;
-    color: #333;
-    margin-bottom: -rem;
 }
 
 .mediumnavigation {
@@ -684,8 +668,12 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+h6,
+p,
+a,
+ul,
+li {
+    font-family: 'Prentendard', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .article-post .h1,

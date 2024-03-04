@@ -22,26 +22,26 @@ featured: true
 
 해당 질문은 Python의 Garbage Collection에 대한 이해와 Reference Counting 방식에 대한 이해도를 확인하고자 하였습니다. 또한, Circular Reference가 일어나는 상황에 대해서 왜 메모리 누수가 발생하는지 코드를 보면서 토론을 진행하였습니다.
 
-1. 아래 코드를 실행 시키면 출력이 어떻게 될까요? 그 이유도 같이 설명해주세요.
+- 아래 코드를 실행 시키면 출력이 어떻게 될까요? 그 이유도 같이 설명해주세요.
 
 ```python
 class A:
-	def __init__(self):
-		pass
+  def __init__(self):
+    pass
 
-	def __del__(self):
-		print("deleted")
+  def __del__(self):
+    print("deleted")
 
 def main():
-	a = A()
-	print("end")
+  a = A()
+  print("end")
 
 if __name__ == "__main__":
-	# 출력이 어떻게 될까요?
-	main()
+  # 출력이 어떻게 될까요?
+  main()
 ```
 
-2. 아래 코드를 실행 시키면 출력이 어떻게 될까요? 그 이유도 같이 설명해주세요.
+- 아래 코드를 실행 시키면 출력이 어떻게 될까요? 그 이유도 같이 설명해주세요.
 
 ```python
 class A:
@@ -61,7 +61,7 @@ if __name__ == "__main__":
 	main()
 ```
 
-3. 아래 코드를 실행 시키면 출력이 어떻게 될까요? 해당 코드는 어떤 문제점을 가지고 있을까요? 그 이유도 같이 설명해주세요.
+- 아래 코드를 실행 시키면 출력이 어떻게 될까요? 해당 코드는 어떤 문제점을 가지고 있을까요? 그 이유도 같이 설명해주세요.
 
 ```python
 class A:
@@ -83,7 +83,7 @@ if __name__ == "__main__":
   main()
 ```
 
-4. 아래 코드는 어떤 문제점을 가지고 있을까요? 메모리 누수가 일어난다고 하면 얼마나 일어날까요? 그 이유도 같이 설명해주세요.
+- 아래 코드는 어떤 문제점을 가지고 있을까요? 메모리 누수가 일어난다고 하면 얼마나 일어날까요? 그 이유도 같이 설명해주세요.
 
 ```python
 class A:
@@ -112,7 +112,7 @@ if __name__ == "__main__":
 
 해당 질문은 Django에 대한 공부를 진행한 경우 진행이 되었으며, Queryset의 Lazy evaluation에 대한 이해도를 물어보는 질문이었습니다.
 
-1. Django에서 아래 코드를 실행 시키면 실제 evaluated 되는 시점은 언제인가요?
+- Django에서 아래 코드를 실행 시키면 실제 evaluated 되는 시점은 언제인가요?
 
 ```python
 queryset = User.objects.filter(id=1234)
@@ -126,7 +126,7 @@ for q in queryset:
   print(q)
 ```
 
-2. 아래 코드의 차이점은 무엇일까요? 왜 성능차이가 발생하는 걸까요?
+- 아래 코드의 차이점은 무엇일까요? 왜 성능차이가 발생하는 걸까요?
 
 ```python
 queryset.count() vs len(queryset)
