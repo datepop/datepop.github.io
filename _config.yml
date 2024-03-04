@@ -13,6 +13,13 @@ permalink: /:title/
 
 # Authors
 authors:
+  Springkjw:
+    name: 권재원
+    display_name: 권재원
+    email: springkjw@gmail.com
+    githubuid: 5336742
+    web: https://velog.io/@springkjw
+    description: "CTO"
   Changyun:
     name: 이창윤
     display_name: 이창윤

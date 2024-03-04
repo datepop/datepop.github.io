@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "주니어 개발자의 프로젝트 참가기 (4) - Sprint 2차 달리기"
+title: "주니어 개발자의 프로젝트 참가기 (4) - Sprint 2차 달리기"
 author: Coldzero
-categories: [ 프로젝트, 킥오프, 개발자 ]
+categories: [프로젝트, 킥오프, 개발자]
 image: assets/images/posts/junior-developer-kick-off-4/untitled-0.png
-featured: true
+featured: false
 ---
 
 안녕하세요 백엔드 개발자 찬영2의 프로젝트 참가기 4탄입니다.
 
 스프린트 2차를 위해서 달린 후기를 적어보았습니다.
 
-그럼 지금까지 어떻게 프로젝트를 준비해왔는지 알아볼까요~?😜 
+그럼 지금까지 어떻게 프로젝트를 준비해왔는지 알아볼까요~?😜
 
 만약 저번일이 기억이 안난다면 다시보고 오기
 
- - [1편 링크 🙄](https://blog.datepop.co.kr/junior-developer-kick-off/)
- - [2편 링크 😘](https://blog.datepop.co.kr/junior-developer-kick-off-2/)
- - [3편 링크 😇](https://blog.datepop.co.kr/junior-developer-kick-off-3/)
+- [1편 링크 🙄](https://blog.datepop.co.kr/junior-developer-kick-off/)
+- [2편 링크 😘](https://blog.datepop.co.kr/junior-developer-kick-off-2/)
+- [3편 링크 😇](https://blog.datepop.co.kr/junior-developer-kick-off-3/)
 
-## Q1.  스프린트 2차 에서는 무엇을 했나요?
+## Q1. 스프린트 2차 에서는 무엇을 했나요?
 
 ---
 
@@ -27,7 +27,7 @@ featured: true
 - 와이드배너, 비디오 배너 기능 개발
 - 자동화 Feed API 개발
 
-## Q2.  API 이전은 왜했나요?
+## Q2. API 이전은 왜했나요?
 
 ---
 
@@ -41,11 +41,11 @@ featured: true
 
 이러한 문제점을 개선하기 위해서 API 이전을 기존 DRF → FastAPI로 이전하였습니다.
 
-## Q3.  새로운 기능들은 어떠한 것들이 있나요?
+## Q3. 새로운 기능들은 어떠한 것들이 있나요?
 
 ---
 
-새로운 기능들은 
+새로운 기능들은
 
 1. 피드 리스트내에 사진 뿐만 아니라 동영상,gif 로 업로드 가능하게 변경한점
 2. 와이드배너(돌아가는 배너판)
@@ -54,7 +54,7 @@ featured: true
 
 GIF 업로드 필수~
 
-## Q4.  스프린트 2차에서 성장할 수 있었던 point
+## Q4. 스프린트 2차에서 성장할 수 있었던 point
 
 ---
 
@@ -78,4 +78,4 @@ Swagger문서를 통해서 안드로이드 개발자와 함께 소통을 하는 
 
 2차 스프린트에는 변화된 모습과 프로젝트의 결과물을 들고 오겠습니다.😜
 
-모두들 안녕~ 🥹  🤩  🙌🏻
+모두들 안녕~ 🥹 🤩  🙌🏻

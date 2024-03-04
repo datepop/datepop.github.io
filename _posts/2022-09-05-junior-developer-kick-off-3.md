@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "주니어 개발자의 프로젝트 참가기 (3) - Sprint 1차 달리기"
+title: "주니어 개발자의 프로젝트 참가기 (3) - Sprint 1차 달리기"
 author: Coldzero
-categories: [ 프로젝트, 킥오프, 개발자 ]
+categories: [프로젝트, 킥오프, 개발자]
 image: assets/images/posts/junior-developer-kick-off-3/junior-3-0.png
-featured: true
+featured: false
 ---
 
 안녕하세요 백엔드 개발자 2찬영의 프로젝트 참가기 3탄입니다.
 
 스프린트 1차를 위해서 달린 후기를 적어보았습니다.
 
-그럼 지금까지 어떻게 프로젝트를 준비해왔는지 알아볼까요~?😜 
+그럼 지금까지 어떻게 프로젝트를 준비해왔는지 알아볼까요~?😜
 
 만약 저번일이 기억이 안난다면 다시보고 오기
 
- - [1편 링크 🙄](https://blog.datepop.co.kr/junior-developer-kick-off/)
- - [2편 링크 😘](https://blog.datepop.co.kr/junior-developer-kick-off-2/)
+- [1편 링크 🙄](https://blog.datepop.co.kr/junior-developer-kick-off/)
+- [2편 링크 😘](https://blog.datepop.co.kr/junior-developer-kick-off-2/)
 
-## Q1.  스프린트 1차 에서는 무엇을 했나요?
+## Q1. 스프린트 1차 에서는 무엇을 했나요?
 
 ---
 
@@ -27,7 +27,7 @@ featured: true
 
 → 다음 질문을 통해서 좀더 스프린트 1차에서 관련된 작업을 자세하게 설명해보도록 하겠습니다.
 
-## Q2.  Mock API란?
+## Q2. Mock API란?
 
 ---
 
@@ -43,7 +43,7 @@ mock api는 제가 만들 api에 관해서 예시로 갈 정보를 미리 만들
 
 → 위와 같은 슬로건을 가지고 사이틑 운영하는 [mocky](https://designer.mocky.io/) 에서 쉽고 빠르게 만들수 있었습니다.
 
-## Q3.  데이트팝 맵과 관련된 API는 어떤것들이 있나요?
+## Q3. 데이트팝 맵과 관련된 API는 어떤것들이 있나요?
 
 ---
 
@@ -69,7 +69,7 @@ mock api는 제가 만들 api에 관해서 예시로 갈 정보를 미리 만들
 
 기존에 문제되고 어려웠던 부분은 사라지고 좀더 업로드하는 사람도 사용자도 즐길 수 있는 앱으로 변화 하였습니다.
 
-## Q4.  스프린트 1차를 겪으며 어려웠던 점
+## Q4. 스프린트 1차를 겪으며 어려웠던 점
 
 ---
 
@@ -91,11 +91,11 @@ mock api는 제가 만들 api에 관해서 예시로 갈 정보를 미리 만들
 
 다음 2차 스프린트에서는 좀 더 성장한 모습을 보여 드리며 글을 마치고 싶습니다.
 
-저번 글에서 
+저번 글에서
 
-*`끝내기 위해서 노력하고 또한 어쩌면 야근하는 날이 더 많을수도 있고 개발을 빨리 해내지 못하는 제 자신에게 화날수도 있을 수도 있을것입니다.`*
+_`끝내기 위해서 노력하고 또한 어쩌면 야근하는 날이 더 많을수도 있고 개발을 빨리 해내지 못하는 제 자신에게 화날수도 있을 수도 있을것입니다.`_
 
-이렇게 문장을 썼는데 예측한데로 맞이 하였습니다. 
+이렇게 문장을 썼는데 예측한데로 맞이 하였습니다.
 
 제 자신의 부족한 부분을 많이 느끼고 어려움도 느끼는 날이 더 많았습니다.
 
@@ -109,4 +109,4 @@ mock api는 제가 만들 api에 관해서 예시로 갈 정보를 미리 만들
 
 ![Untitled](/assets/images/posts/junior-developer-kick-off-3/junior-3-3.png)
 
-모두들 안녕~ 🥹  🤩  🙌🏻
+모두들 안녕~ 🥹 🤩  🙌🏻
