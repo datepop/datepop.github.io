@@ -4,7 +4,7 @@ title: "데이트팝 iOS 주니어 개발자 인터뷰 후기"
 author: Springkjw
 categories: [iOS, 채용, Swift, Datepop]
 image: assets/images/coding-tests-for-interviews.jpg
-featured: true
+featured: false
 ---
 
 ## 데이트팝 iOS 주니어 개발자 인터뷰 후기
