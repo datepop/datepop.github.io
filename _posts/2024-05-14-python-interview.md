@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "데이트팝 Python 주니어 개발자 인터뷰 후기"
+title: "데이트팝 Python 주니어 개발자 인터뷰 후기 2탄"
 author: Springkjw
 categories: [Python, 채용, Datepop]
 image: assets/images/coding-tests-for-interviews.jpg
