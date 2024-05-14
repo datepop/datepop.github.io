@@ -87,7 +87,7 @@ print(getsizeof(my_list))
 
 데이터베이스를 공부한다면 빼놓을 수 없는 트랜잭션 개념에 대한 질문입니다.
 
-- SOLID 원칙에 무엇인가요? SOLID 원친은 왜 지켜야한다고 생각하실까요?
+- SOLID 원칙에 무엇인가요? SOLID 원칙은 왜 지켜야한다고 생각하실까요?
 
 ```python
 from django.db import models
