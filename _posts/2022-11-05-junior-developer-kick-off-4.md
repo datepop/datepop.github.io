@@ -79,3 +79,9 @@ Swagger문서를 통해서 안드로이드 개발자와 함께 소통을 하는 
 2차 스프린트에는 변화된 모습과 프로젝트의 결과물을 들고 오겠습니다.😜
 
 모두들 안녕~ 🥹 🤩  🙌🏻
+
+<div style="max-width: 500px; width: 100%; margin-top: 40px;" >
+<a href="https://datepop.co.kr/exhibition/list/666" target="_blank" rel="noopener noreferrer">
+ <img src="https://cdn.datepop.co.kr/image/marketing/exhibition/list/2024-10-31/tz9faq9gl8.png=w1080">
+ </a>
+</div>

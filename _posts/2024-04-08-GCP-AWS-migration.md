@@ -4,7 +4,7 @@ title: "데이트팝 서버를 이관해보자"
 author: Dragontiger
 categories: [GCP, AWS, Python 3.11, DjangoNinja]
 image: assets/images/aws.png
-featured: false
+featured: true
 ---
 
 ## 데이트팝 서버 이관기 (GCP to AWS Migration)
@@ -65,3 +65,9 @@ featured: false
 데이트팝 서버는 향후 MSA 전환을 목표로 향하고 있고, 이에 CTO님(능력자👍)과 함께 여러 설계를 고민해보며 나아가고 있습니다. 개발자는 항상 변화를 일궈내야하기 때문에 저는 MSA를 향한 도약을 또 일궈내보며 다음 글로 뵙겠습니다.🙇
 
 ![Untitled](/assets/images/posts/server-migration/bye.webp)
+
+<div style="max-width: 500px; width: 100%; margin-top: 40px;" >
+<a href="https://datepop.co.kr/exhibition/list/666" target="_blank" rel="noopener noreferrer">
+ <img src="https://cdn.datepop.co.kr/image/marketing/exhibition/list/2024-10-31/tz9faq9gl8.png=w1080">
+ </a>
+</div>

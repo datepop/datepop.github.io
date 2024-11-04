@@ -4,7 +4,6 @@ title: "데이트팝에 Motion Layout 적용하기"
 author: ZeroDeg
 categories: [Android, Datepop, MotionLayout]
 image: assets/images/posts/android-motion-layout/Untitled.png
-featured: true
 ---
 
 ## 데이트팝의 **첫인상을 바꿔보자** 😎
@@ -168,3 +167,9 @@ featured: true
 모션 레이아웃의 가장 큰 장점은 애니메이션과 관련된 기능을 앞서 예제 코드에서 살펴 본 것처럼 XML 파일로 분리하여 관리할 수 있으며 **재사용**할 수 있다는 점입니다. 만약 위에서 만들어놓은 애니메이션을 다른 Motion Layout 에서 사용하고자 한다면 별다른 수정 없이 곧바로 적용해서 사용할 수 있습니다.
 
 앞으로 데이트팝 안드로이드 앱에서는 모션 레이아웃을 적극 활용할 예정입니다. 기존에 만들어둔 애니메이션을 재사용할 수 있기 때문에 새로 개발할 필요가 없기 때문입니다. 쉽고 빠르게 구현할 수 있으며 강력한 기능을 제공하는 모션 레이아웃과 함께 데이트팝 앱이 더 트랜디하고 역동적이 앱이 되었으면 하는 바람입니다.
+
+<div style="max-width: 500px; width: 100%; margin-top: 40px;" >
+<a href="https://datepop.co.kr/exhibition/list/666" target="_blank" rel="noopener noreferrer">
+ <img src="https://cdn.datepop.co.kr/image/marketing/exhibition/list/2024-10-31/tz9faq9gl8.png=w1080">
+ </a>
+</div>

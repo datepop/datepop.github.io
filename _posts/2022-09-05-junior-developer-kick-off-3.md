@@ -110,3 +110,9 @@ _`끝내기 위해서 노력하고 또한 어쩌면 야근하는 날이 더 많�
 ![Untitled](/assets/images/posts/junior-developer-kick-off-3/junior-3-3.png)
 
 모두들 안녕~ 🥹 🤩  🙌🏻
+
+<div style="max-width: 500px; width: 100%; margin-top: 40px;" >
+<a href="https://datepop.co.kr/exhibition/list/666" target="_blank" rel="noopener noreferrer">
+ <img src="https://cdn.datepop.co.kr/image/marketing/exhibition/list/2024-10-31/tz9faq9gl8.png=w1080">
+ </a>
+</div>

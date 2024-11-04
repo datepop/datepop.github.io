@@ -4,7 +4,6 @@ title: "데이트팝 Python 주니어 개발자 인터뷰 후기 2탄"
 author: Springkjw
 categories: [Python, 채용, Datepop]
 image: assets/images/coding-tests-for-interviews.jpg
-featured: true
 ---
 
 ## 데이트팝 Python 주니어 개발자 인터뷰 후기
@@ -150,3 +149,8 @@ class UserService:
 # 데드락은 무엇인가요? 해결하기 위해서는 어떻게 하면 되나요?
 # 위의 코드에서 잘못된 점은 무엇인가요? 그리고 해결 방법은 무엇인가요?
 ```
+<div style="max-width: 500px; width: 100%; margin-top: 40px;" >
+<a href="https://datepop.co.kr/exhibition/list/666" target="_blank" rel="noopener noreferrer">
+ <img src="https://cdn.datepop.co.kr/image/marketing/exhibition/list/2024-10-31/tz9faq9gl8.png=w1080">
+ </a>
+</div>
